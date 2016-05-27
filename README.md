@@ -7,6 +7,8 @@ Stært is a Go library for loading and merging a program configuration structure
 
 ## Overview
 Stært was born in order to merge two sources of Configuration ([Flæg](https://github.com/containous/flaeg), [Toml](http://github.com/BurntSushi/toml))
+We developed [`flaeg`](https://github.com/containous/flaeg) and `staert` in order to simplify configuration maintenance [traefik](https://github.com/containous/traefik).
+
 
 ## Features
  - Load your Configuration structure from many sources
